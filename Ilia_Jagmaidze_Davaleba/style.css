@@ -1,0 +1,54 @@
+.div1{
+    background-color: #ecf0f1;
+  width: 300px;
+  border: 3px solid rgb(0, 8, 0);
+  padding: 50px;
+  margin: 20px;
+
+}
+.but1{
+    background-color:#e74c3c ;
+    width: 230px;
+    height: 45px;
+}
+.log1{
+    width: 230px;
+    height: 30px;
+    background-color: #ffffff;
+}
+.div2{
+    background-color: #fbfdfd;
+  width: 1000px;
+  border: 3px solid rgb(0, 8, 0);
+  height: 400px;
+  padding: 50px;
+  margin: 20px;
+}
+.log2{
+    width: 700px;
+    height: 30px;
+    border-top: 0cm; 
+    border-left: 0cm; 
+    border-right: 0cm;
+}
+.div3{
+    background-color: #dbf8c0;
+  width: 1000px;
+  border: 100px rgb(133, 7, 7)1;
+  height: 400px;
+  padding: 50px;
+  margin: 20px;
+
+}
+.log3{
+    width: 400px;
+    height: 30px;
+}
+.log4{
+    width: 400px;
+    height: 150px;
+}
+.p1{
+    text-align: right;
+    color: #000;
+}
